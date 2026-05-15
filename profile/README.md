@@ -3,5 +3,7 @@
 # !THIS ORGANIZATION IS NOT OFFICIAL AND NOT FOR FREE GAME!
 
 * [About](https://github.com/milkis2000/about)
+* Games
+  * [Absol_2](https://github.com/milkis2000/absol_2)
 
 ### [PLEASE SUPPORT AUTHOR](https://www.patreon.com/cw/milkis2000)
